@@ -3,6 +3,6 @@ const IntegrationController = require('./app/controllers/IntegrationController')
 
 const routes = express.Router();
 
-routes.post('/sync', IntegrationController.sync);
+routes.post('/integration', IntegrationController.store);
 
 module.exports = routes;

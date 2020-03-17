@@ -14,7 +14,7 @@ Testado com o node versão v12.16.1
 
 * Executar o comando:
 
-  `npm runs-script dev`
+  `npm run-script dev`
 
 ## Execução:
 
